@@ -8,11 +8,9 @@
 5. [Uso](#uso)
 6. [Provisionamiento](#provisionamiento)
 7. [Reto](#reto)
-8. [Contribución](#contribución)
-9. [Licencia](#licencia)
-10. [Contacto](#contacto)
-11. [Tecnologías Usadas](#tecnologías-usadas)
-12. [Ejemplos Visuales](#ejemplos-visuales)
+8. [Contacto](#contacto)
+9. [Tecnologías Usadas](#tecnologías-usadas)
+10. [Ejemplos Visuales](#ejemplos-visuales)
 
 ---
 
