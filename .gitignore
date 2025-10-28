@@ -1,0 +1,16 @@
+# Ignorar la carpeta de Vagrant
+.vagrant/
+
+# Ignorar archivos de configuración temporal
+*.log
+*.tmp
+*.bak
+
+# Ignorar claves privadas (por seguridad)
+*.pem
+*.key
+*.pub
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
